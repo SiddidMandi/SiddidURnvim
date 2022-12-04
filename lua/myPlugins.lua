@@ -1,0 +1,8 @@
+require('/setup/airline')
+require('/setup/vimtex')
+require('/setup/cocConfig')
+require('/setup/oceanicNext')
+require('/setup/multiCarets')
+require('/setup/indentBankline')
+require('/setup/limeLight')
+require('/setup/vimwiki')
